@@ -1,0 +1,7 @@
+name = "qwen-api-worker"
+main = "index.js"
+compatibility_date = "2024-02-04"
+
+[[routes]]
+pattern = "*/*"
+zone_id = ""
